@@ -1,2 +1,13 @@
-# bashert
-Install Pentesting Tools in Linux
+# Bashert
+Script for Pentesting 
+
+   ____      _      ____     _   _  U _____ u   ____      _____   
+U | __")uU  /"\  u / __"| u |'| |'| \| ___"|/U |  _"\ u  |_ " _|  
+ \|  _ \/ \/ _ \/ <\___ \/ /| |_| |\ |  _|"   \| |_) |/    | |    
+  | |_) | / ___ \  u___) | U|  _  |u | |___    |  _ <     /| |\   
+  |____/ /_/   \_\ |____/>> |_| |_|  |_____|   |_| \_\   u |_|U   
+ _|| \\_  \\    >>  )(  (__)//   \\  <<   >>   //   \\_  _// \\_  
+(__) (__)(__)  (__)(__)    (_") ("_)(__) (__) (__)  (__)(__) (__) 
+         	Developed by Jose Moruno Cadima aka Snifer
+		      www.sniferl4bs.com
+			Bashert V.Beta 
